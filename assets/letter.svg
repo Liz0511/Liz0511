@@ -17,18 +17,18 @@
   <rect x="28" y="28" width="944" height="374" rx="10" fill="none" stroke="#D4AF37" stroke-opacity=".35" stroke-dasharray="4 6"/>
   <g fill="#D4AF37"><path d="M40 40 l14 0 l-14 14z"/><path d="M960 40 l-14 0 l14 14z"/><path d="M40 390 l14 0 l-14 -14z"/><path d="M960 390 l-14 0 l14 -14z"/></g>
 
-  <text class="t" x="500" y="74" text-anchor="middle" font-size="30" font-weight="bold" letter-spacing="4" fill="url(#g)" filter="url(#glow)">HOGWARTS SCHOOL OF OPEN SOURCE</text>
-  <text class="t" x="500" y="100" text-anchor="middle" font-size="13" letter-spacing="4" fill="#8FA3D9">AND COMPUTATIONAL WIZARDRY</text>
+  <text class="t" x="500" y="74" text-anchor="middle" font-size="30" font-weight="bold" letter-spacing="4" fill="url(#g)" filter="url(#glow)">ABOUT ME</text>
+  <text class="t" x="500" y="100" text-anchor="middle" font-size="13" letter-spacing="4" fill="#8FA3D9">NEWTON SCHOOL OF TECHNOLOGY</text>
 
   <g class="t" font-size="18" fill="#E6ECFF">
-    <text class="ln l1" x="70" y="150" font-style="italic" fill="#FFE9A3">Dear Liz0511,</text>
-    <text class="ln l2" x="70" y="185">We are pleased to inform you that you have been accepted as a</text>
-    <text class="ln l3" x="70" y="212">student developer, sorted into the House of <tspan fill="#FFE9A3" font-weight="bold">Ravenclaw</tspan>.</text>
-    <text class="ln l4" x="92" y="255" font-size="16" fill="#C9D6FF">Currently studying: Open source, the DevForge 10 PR Journey</text>
-    <text class="ln l5" x="92" y="282" font-size="16" fill="#C9D6FF">Advanced charms: Audio + AI with local Whisper</text>
-    <text class="ln l6" x="92" y="309" font-size="16" fill="#C9D6FF">Spellwork: Python, HTML, CSS, JavaScript, Git</text>
-    <text class="ln l7" x="70" y="352" font-style="italic" fill="#8FA3D9" font-size="15">“It does not do to dwell on dreams and forget to live.”</text>
-    <text class="ln l8" x="70" y="385" font-size="15" fill="#D4AF37">Yours sincerely, The Headmaster of GitHub</text>
+    <text class="ln l1" x="70" y="150" font-style="italic" fill="#FFE9A3">Hi, I'm Liz0511</text>
+    <text class="ln l2" x="70" y="185">Student developer at Newton School of Technology, learning</text>
+    <text class="ln l3" x="70" y="212">by building projects and contributing to <tspan fill="#FFE9A3" font-weight="bold">open source</tspan>.</text>
+    <text class="ln l4" x="92" y="255" font-size="16" fill="#C9D6FF">Currently: Working through the DevForge 10 PR Journey</text>
+    <text class="ln l5" x="92" y="282" font-size="16" fill="#C9D6FF">Exploring: Audio + AI tools with local Whisper</text>
+    <text class="ln l6" x="92" y="309" font-size="16" fill="#C9D6FF">Tech: Python, HTML, CSS, JavaScript, Git</text>
+    <text class="ln l7" x="70" y="352" font-style="italic" fill="#8FA3D9" font-size="15">“Always learning. Always building.”</text>
+    <text class="ln l8" x="70" y="385" font-size="15" fill="#D4AF37">Open to collaborations · Let's build something</text>
   </g>
 
   <g fill="#D4AF37"><path d="M76 249 l6 -6 l6 6 l-6 6z"/><path d="M76 276 l6 -6 l6 6 l-6 6z"/><path d="M76 303 l6 -6 l6 6 l-6 6z"/></g>
@@ -36,6 +36,6 @@
   <g class="seal" filter="url(#glow)">
     <circle cx="860" cy="330" r="46" fill="url(#g)"/>
     <circle cx="860" cy="330" r="36" fill="none" stroke="#7A5A0E" stroke-width="2"/>
-    <text class="t" x="860" y="347" text-anchor="middle" font-size="46" font-weight="bold" fill="#5A400A">H</text>
+    <text class="t" x="860" y="339" text-anchor="middle" font-size="26" font-weight="bold" fill="#5A400A">NST</text>
   </g>
 </svg>

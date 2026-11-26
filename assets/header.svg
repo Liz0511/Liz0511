@@ -103,8 +103,8 @@
 
   <!-- title -->
   <text class="serif" x="500" y="215" text-anchor="middle" font-size="78" font-weight="bold" letter-spacing="6" fill="url(#shine)" filter="url(#glow)">LIZ0511</text>
-  <text class="serif" x="500" y="258" text-anchor="middle" font-size="21" font-style="italic" fill="#D7E1FF">“I solemnly swear that I am up to no good.”</text>
+  <text class="serif" x="500" y="258" text-anchor="middle" font-size="21" font-style="italic" fill="#D7E1FF">Student @ Newton School of Technology</text>
   <path d="M360 278 H470 M530 278 H640" stroke="#D4AF37" stroke-width="1.4"/>
   <path d="M500 270 l8 8 l-8 8 l-8 -8z" fill="#D4AF37"/>
-  <text class="serif" x="500" y="310" text-anchor="middle" font-size="14" letter-spacing="6" fill="#D4AF37">RAVENCLAW · CODE · MAGIC</text>
+  <text class="serif" x="500" y="310" text-anchor="middle" font-size="14" letter-spacing="6" fill="#D4AF37">CODE · BUILD · OPEN SOURCE</text>
 </svg>

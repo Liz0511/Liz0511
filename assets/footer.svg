@@ -10,8 +10,8 @@
   </defs>
   <rect width="1000" height="140" rx="22" fill="url(#bg)"/>
   <g class="fade">
-    <text x="500" y="78" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="42" fill="url(#shine)" filter="url(#glow)" letter-spacing="2">Mischief Managed</text>
+    <text x="500" y="78" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="42" fill="url(#shine)" filter="url(#glow)" letter-spacing="2">Thanks for visiting</text>
   </g>
-  <path d="M265 65 l9 -11 l9 11 l-9 11z M717 65 l9 -11 l9 11 l-9 11z" fill="#D4AF37"/>
-  <text x="500" y="112" text-anchor="middle" font-size="13" fill="#8FA3D9" font-family="Georgia,serif" letter-spacing="4">NOX · THANKS FOR VISITING, MUGGLE</text>
+  <path d="M245 65 l9 -11 l9 11 l-9 11z M737 65 l9 -11 l9 11 l-9 11z" fill="#D4AF37"/>
+  <text x="500" y="112" text-anchor="middle" font-size="13" fill="#8FA3D9" font-family="Georgia,serif" letter-spacing="4">SEE YOU IN THE NEXT COMMIT</text>
 </svg>
