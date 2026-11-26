@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#01040F"/><stop offset=".5" stop-color="#0A1F4D"/><stop offset="1" stop-color="#01040F"/></linearGradient>
+    <g id="fp"><ellipse cx="0" cy="0" rx="4" ry="7" fill="#D4AF37"/><circle cx="0" cy="-10" r="2.5" fill="#D4AF37"/></g>
+    <style>
+      .f{opacity:0;animation:step 6s linear infinite}
+      @keyframes step{0%{opacity:0}4%{opacity:1}40%{opacity:1}55%{opacity:0}100%{opacity:0}}
+    </style>
+  </defs>
+  <rect width="1000" height="90" rx="14" fill="url(#bg)"/>
+  <path d="M30 45 H970" stroke="#D4AF37" stroke-opacity=".25" stroke-dasharray="2 8"/>
+  <g>
+    <use href="#fp" class="f" x="90" y="38" transform="rotate(90 90 38)" style="animation-delay:0s"/>
+    <use href="#fp" class="f" x="160" y="54" transform="rotate(90 160 54)" style="animation-delay:.3s"/>
+    <use href="#fp" class="f" x="230" y="38" transform="rotate(90 230 38)" style="animation-delay:.6s"/>
+    <use href="#fp" class="f" x="300" y="54" transform="rotate(90 300 54)" style="animation-delay:.9s"/>
+    <use href="#fp" class="f" x="370" y="38" transform="rotate(90 370 38)" style="animation-delay:1.2s"/>
+    <use href="#fp" class="f" x="630" y="54" transform="rotate(90 630 54)" style="animation-delay:1.5s"/>
+    <use href="#fp" class="f" x="700" y="38" transform="rotate(90 700 38)" style="animation-delay:1.8s"/>
+    <use href="#fp" class="f" x="770" y="54" transform="rotate(90 770 54)" style="animation-delay:2.1s"/>
+    <use href="#fp" class="f" x="840" y="38" transform="rotate(90 840 38)" style="animation-delay:2.4s"/>
+    <use href="#fp" class="f" x="910" y="54" transform="rotate(90 910 54)" style="animation-delay:2.7s"/>
+  </g>
+  <rect x="420" y="27" width="160" height="36" rx="18" fill="#06122E" stroke="#D4AF37" stroke-width="1.2"/>
+  <text x="500" y="51" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="16" fill="#FFE9A3">Liz0511 was here</text>
+</svg>
