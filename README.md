@@ -14,7 +14,7 @@
 
 <img src="./assets/letter.svg" width="100%" alt="About me"/>
 
-<img src="./assets/map.svg" width="100%" alt="divider"/>
+<img src="./assets/div1.svg" width="100%" alt=""/>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -29,7 +29,7 @@
 
 </div>
 
-<img src="./assets/map.svg" width="100%" alt="divider"/>
+<img src="./assets/div2.svg" width="100%" alt=""/>
 
 <h2 align="center">🚀 Projects</h2>
 
@@ -43,7 +43,7 @@
 
 </div>
 
-<img src="./assets/map.svg" width="100%" alt="divider"/>
+<img src="./assets/div3.svg" width="100%" alt=""/>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
