@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="50" viewBox="0 0 1000 50">
+  <defs>
+    <linearGradient id="l" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="960" y2="0"><stop offset="0" stop-color="#D4AF37" stop-opacity="0"/><stop offset=".5" stop-color="#D4AF37"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/></linearGradient>
+    <radialGradient id="c"><stop offset="0" stop-color="#FFF6CF"/><stop offset=".4" stop-color="#FFD66B" stop-opacity=".8"/><stop offset="1" stop-color="#FFD66B" stop-opacity="0"/></radialGradient>
+    <linearGradient id="tail" x1="1" x2="0"><stop offset="0" stop-color="#FFE9A3" stop-opacity=".9"/><stop offset="1" stop-color="#FFE9A3" stop-opacity="0"/></linearGradient>
+  </defs>
+  <line x1="40" y1="25" x2="960" y2="25" stroke="url(#l)" stroke-width="1.2"/>
+  <g>
+    <rect x="-120" y="24" width="120" height="2" fill="url(#tail)"/>
+    <circle cx="0" cy="25" r="9" fill="url(#c)"/>
+    <animateTransform attributeName="transform" type="translate" values="40 0;1080 0" dur="4.5s" repeatCount="indefinite"/>
+  </g>
+  <path d="M500 15 l10 10 l-10 10 l-10 -10z" fill="#030A1C" stroke="#D4AF37" stroke-width="1.5"/>
+  <circle cx="500" cy="25" r="2.5" fill="#FFE9A3"><animate attributeName="r" values="2;4;2" dur="2s" repeatCount="indefinite"/></circle>
+</svg>

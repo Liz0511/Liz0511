@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="60" viewBox="0 0 1000 60">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#1C47B5" stop-opacity="0"/><stop offset=".25" stop-color="#3B6BE0"/><stop offset=".5" stop-color="#FFE9A3"/><stop offset=".75" stop-color="#3B6BE0"/><stop offset="1" stop-color="#1C47B5" stop-opacity="0"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <path fill="none" stroke="url(#g)" stroke-width="2" filter="url(#glow)" stroke-dasharray="14 10"
+    d="M0 30 C 62 10, 125 10, 187 30 S 312 50, 375 30 S 500 10, 562 30 S 687 50, 750 30 S 875 10, 1000 30">
+    <animate attributeName="stroke-dashoffset" values="0;-240" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <path fill="none" stroke="#D4AF37" stroke-opacity=".25" stroke-width="1"
+    d="M0 30 C 62 50, 125 50, 187 30 S 312 10, 375 30 S 500 50, 562 30 S 687 10, 750 30 S 875 50, 1000 30"/>
+  <g fill="#FFE9A3">
+    <circle cx="187" cy="30" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="375" cy="30" r="2"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="562" cy="30" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="750" cy="30" r="2"><animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
