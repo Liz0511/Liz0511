@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=2800&pause=800&color=D4AF37&center=true&vCenter=true&width=720&lines=Student+%40+Newton+School+of+Technology;Building+with+Python+%26+the+web;Open+source+contributor+in+the+making;Always+learning.+Always+building." alt="Typing intro"/>
 
+<a href="https://liz0511.github.io"><img src="https://img.shields.io/badge/Portfolio-liz0511.github.io-D4AF37?style=for-the-badge&logo=githubpages&logoColor=D4AF37&labelColor=020817" /></a>
 <img src="https://img.shields.io/badge/Newton%20School%20of%20Technology-Student-D4AF37?style=for-the-badge&labelColor=020817" />
 <img src="https://img.shields.io/badge/Focus-Open%20Source-D4AF37?style=for-the-badge&labelColor=0B1D51" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Liz0511.Liz0511&left_color=%23020817&right_color=%23D4AF37&left_text=Profile%20Views" />
@@ -57,6 +58,10 @@
 </div>
 
 <h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+<a href="https://liz0511.github.io"><img src="https://img.shields.io/badge/%E2%9C%A8%20Visit%20my%20Portfolio-D4AF37?style=for-the-badge" /></a>
+</p>
 
 <p align="center"><i>Open an issue on any of my repos or send a PR. I always reply.</i></p>
 
